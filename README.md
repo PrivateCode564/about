@@ -1,5 +1,5 @@
 
-<h3 align="left">Hello there <img style="width=10px";"height=10px" src="https://i.imgur.com/ScQIwKF.gif"</img></h3>
+<h3 align="left">Hello there <img class="wave-gif" src="https://i.imgur.com/ScQIwKF.gif"</img></h3>
 
 <h4>My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.
 I started my programming journey with Java and minecraft development in 2015 and since then I discovered that programming is my passion.</h4>
@@ -10,5 +10,8 @@ I started my programming journey with Java and minecraft development in 2015 and
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=privatecode564&show_icons=true&theme=radical&locale=en&layout=compact" alt="privatecode564" /></p>
 
-
+img.wave-gif {
+witdh:50px;
+height:50px;
+}
 

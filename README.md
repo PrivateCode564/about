@@ -1,5 +1,5 @@
 
-<h3 align="left">Hello there <img witdh=10px; heigth=10px; src="https://i.imgur.com/ScQIwKF.gif"</img></h3>
+<h3 align="left">Hello there <img src="https://i.imgur.com/ScQIwKF.gif" witdh="30px" height="30px"></img></h3>
 
 <h4>My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.
 I started my programming journey with Java and minecraft development in 2015 and since then I discovered that programming is my passion.</h4>

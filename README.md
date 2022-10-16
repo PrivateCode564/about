@@ -1,5 +1,5 @@
 
-![Header](https://raw.githubusercontent.com/acsn1/about/main/self.png "Header")
+![Header](https://raw.githubusercontent.com/acsn1/about/main/self2.png "Header")
 ## Hello there <img src="https://raw.githubusercontent.com/acsn1/about/main/wave.gif" witdh="40px" height="40px"></img>
 
 My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.

@@ -1,5 +1,5 @@
 #image
-<h3 align="center">Hello, My name is acsn1 and I am a developer/software engineer. I am from Greece and currently studying CS since 2021.</h3>
+<h2 align="center">Hello, My name is acsn1 and I am a developer/software engineer. I am from Greece and currently studying CS since 2021.</h3>
 
 - 💬 I started my programming journey with Java and minecraft development in 2015 and since then I discovered that programming is my passion. 
 
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Databases and Discord bot development**
 
-- 📫 Contact me via e-mail at **intellidevbusiness98f@gmail.com**
-
-- 👨‍💻 or via discord at [acsn1#6510](acsn1#6510)
+- 📫 Contact me via e-mail at **intellidevbusiness98f@gmail.com** or via discord at [acsn1#6510](acsn1#6510)
 
 
 <p align="left">

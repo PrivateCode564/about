@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm acsn1</h1>
-<h3 align="center">I am a software engineer/developer and I have a great knowledge in Java, C++,Python and HTML.</h3>
+#image
+<h3 align="center">Hello, My name is acsn1 and I am a developer/software engineer. I am from Greece and currently studying CS since 2021.</h3>
 
-- 🌱 I’m currently learning **Databases integration and Discord bot development**
+- 💬 I started my programming journey with Java and minecraft development in 2015 and since then I discovered that programming is my passion. 
+
+- 💪 I have a great knowledge in Java (J2EE) but also in other programming languages such as Python, C++, HTML and more. 
+
+- 🌱 I’m currently learning **Databases and Discord bot development**
+
+- 📫 Contact me via e-mail at **intellidevbusiness98f@gmail.com**
 
 - 👨‍💻 or via discord at [acsn1#6510](acsn1#6510)
 
-- 📫 In order to contant me via e-mail at **intellidevbusiness98f@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

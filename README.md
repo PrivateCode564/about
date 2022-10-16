@@ -1,7 +1,7 @@
 #image
-<h3 align="center">Hello, My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.</h3>
+<h4 align="center">Hello, My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.</h4>
 
-```java About Me```
+<h3 align="left"> About Me</h3>
 
 - 💬 I started my programming journey with Java and minecraft development in 2015 and since then I discovered that programming is my passion. 
 

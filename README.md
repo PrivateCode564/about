@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/PrivateCode564/about/main/self.png" witdh="600px" heigth="100px"></img>
+<img src="https://raw.githubusercontent.com/PrivateCode564/about/main/self2.png" height="350px"></img>
 ## Hello there <img src="https://raw.githubusercontent.com/PrivateCode564/about/main/wave.gif" witdh="40px" height="40px"></img>
 
 My name is acsn1 and I am a developer/software engineer. I am from Greece and I am currently studying CS since 2021.

@@ -25,5 +25,7 @@ E-Mail: intellidevbusiness98f@gmail.com
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acsn1&show_icons=true&theme=radical&locale=en&layout=compact" alt="acsn1" /></p>
-
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acsn1&show_icons=true&theme=radical&locale=en&layout=compact" alt="acsn1" /></a>
+<a href="https://github.com/acsn1/acsn1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acsn1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="acsn1's GitHub Stats" />
+</a>

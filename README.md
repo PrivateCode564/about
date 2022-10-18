@@ -15,6 +15,8 @@ I started my programming journey with Java and minecraft development in 2015 and
   
 <a href="https://github.com/acsn1/passwordGenerator">Password Generator - Python script that generates a password for you.</a>
 
+## 📷 More Portfolio (Screenshots)
+<a href="https://imgur.com/a/HV2njHT">View screenshots of minecraft plugins I've made.</a>
 
 
 ## 📝 Contact Me

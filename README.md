@@ -11,9 +11,9 @@ I started my programming journey with Java and minecraft development in 2015 and
 ## 📚 Recent Repositories
 <a href="https://github.com/acsn1/PracticeCore">Practice Core(1v1-Duels) - Java minecraft plugin.</a>     
   
-<a href="https://github.com/acsn1/passwordGenerator">Password Generator - Python script that generates a password for you.</a>
-
 <a href="https://github.com/acsn1/Bank-System-Minecraft">Bank System(Minecraft) - Java minecraft plugin</a>
+  
+<a href="https://github.com/acsn1/passwordGenerator">Password Generator - Python script that generates a password for you.</a>
 
 <a href="https://github.com/acsn1">More Coming soon</a>
 

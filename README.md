@@ -8,6 +8,10 @@ I started my programming journey with Java and minecraft development in 2015 and
  ## 📌 Programming Languages
 <p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a target="_blank" rel="noreferrer"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
 
+ ## 📷 Minecraft Portfolio (Screenshots & Videos)
+<a href="https://imgur.com/a/HV2njHT">View screenshots of minecraft plugins I've made.</a><br>
+<a href="https://www.youtube.com/watch?v=ntKLznhZ99o&ab_channel=mcpractice">View a Practice and a Core plugin I've made.</a>
+ 
 ## 📚 Recent Repositories
 <a href="https://github.com/acsn1/PracticeCore">Practice Core(1v1-Duels) - Java minecraft plugin.</a>     
   
@@ -16,10 +20,6 @@ I started my programming journey with Java and minecraft development in 2015 and
 <a href="https://github.com/acsn1/passwordGenerator">Password Generator - Python script that generates a password for you.</a>
 
 <a href="https://github.com/acsn1">More Coming soon</a>
-
-## 📷 More Portfolio (Screenshots)
-<a href="https://imgur.com/a/HV2njHT">View screenshots of minecraft plugins I've made.</a><br>
-<a href="https://www.youtube.com/watch?v=ntKLznhZ99o&ab_channel=mcpractice">View a Practice and a Core plugin I've made.</a>
 
 
 ## 📝 Contact Me

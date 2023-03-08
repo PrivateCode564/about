@@ -10,7 +10,9 @@ I started my programming journey with Java and minecraft development in 2015 and
 
  ## 📷 Minecraft Portfolio (Screenshots & Videos)
 <a href="https://imgur.com/a/HV2njHT">View screenshots of minecraft plugins I've made.</a><br>
-<a href="https://www.youtube.com/watch?v=ntKLznhZ99o&ab_channel=mcpractice">View a Practice and a Core plugin I've made.</a>
+<a href="https://www.youtube.com/watch?v=ntKLznhZ99o&ab_channel=mcpractice">View a Practice and a Core plugin I've made.</a><br>
+ <a href="https://youtu.be/8HANFjR1ruI">View a BankSystem plugin with MySQL support I've made.</a>
+ 
  
 ## 📚 Recent Repositories
 <a href="https://github.com/acsn1/PracticeCore">Practice Core(1v1-Duels) - Java minecraft plugin.</a>     
